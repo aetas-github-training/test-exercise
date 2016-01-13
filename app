@@ -4,9 +4,7 @@ var app = express();
 
 app.get('/', function (req, res) {
 
-  res.send('hello Github this is Steve’);
-
-  res.send('hello Github this RC');
+  res.send('hello Github');
 
 });
  

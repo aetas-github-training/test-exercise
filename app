@@ -4,11 +4,10 @@ var app = express();
 
 app.get('/', function (req, res) {
 
-<<<<<<< HEAD
   res.send('hello Github this is Robert');
-=======
+
   res.send('hello Github this is @jbjonesjr');
->>>>>>> refs/remotes/origin/master
+refs/remotes/origin/master
 
 });
 
